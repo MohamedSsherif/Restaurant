@@ -24,7 +24,7 @@ public class Main {
         boolean firstTime = true;
 
         // restaurant information
-        rest = new Restaurant(1, "Mesh Food", "7598", "15 taha hussein street");
+        rest = new Restaurant(1, "Mesh & fal2s Food", "7598", "15 taha hussein street");
 
         Scanner in = new Scanner(System.in);
 
